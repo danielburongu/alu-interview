@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+""" Minimum Operations """
+
 import math
 
 def minOperations(n):
